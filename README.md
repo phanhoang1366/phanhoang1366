@@ -5,10 +5,15 @@
 Here are some ideas to get you started:
 -->
 **About me:**
-- My name is Phan Huy Hoang
-- Born on 10/05/2005
+- My name is Phan Huy Hoang (hence the 'phan' and 'hoang' in the username.)
+- Born on 10/05/2005 (the date, month and year are divisible by 5, I know)
 - I am an introvert, so I'm not really talking much and hard to catch up with other's conversations
 
 **Hobbies:**
-- I’m working on a Discord bot using Python
+- I’m working on a Discord bot using Python on a private server.
 - I’m currently learning C++ and Python
+- I'm still in high school, so there aren't many activities here and there.
+- I play games a lot, like 30 minutes to 1 hour per day. My favorites are Genshin Impact, Half-Life 2, osu! and Muse Dash.
+
+**Random stuff:**
+- This account will have a fork of an Online Judge, so that a school from a friend of mine (Le Hong Phong High School) will use it.
