@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 **Hobbies:**
 - I’m working on a Discord bot using Python on a private server.
-- I’m currently learning C++ and Python
+- I’m currently ~~learning C++ and Python~~ not anymore, I am braindead. I am currently learning English though.
 - I'm still in high school, so there aren't many activities here and there.
 - I play games a lot, like 30 minutes to 1 hour per day. My favorites are Genshin Impact, Half-Life 2, osu! and Muse Dash.
 
