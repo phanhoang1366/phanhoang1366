@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - I'm still in high school, so there aren't many activities here and there.
 - I play games a lot, like 30 minutes to 1 hour per day. My favorites are Genshin Impact, Half-Life 2, osu! and Muse Dash.
 
+Update 01/2025: Most of this is still true, I'm learning Japanese for fun and profit, and my favorites are games that just work on my PC. Oh yeah, uni time.
+
 **Random stuff:**
-- This account will have a fork of an Online Judge, so that a school from a friend of mine (Le Hong Phong High School) will use it.
+- This account will have a fork of an Online Judge, so that a school from a friend of mine (Le Hong Phong High School) will use it. It has successfully collected dust due to disinterest.
